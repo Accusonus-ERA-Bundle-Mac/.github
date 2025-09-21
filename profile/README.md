@@ -18,7 +18,7 @@ Accusonus ERA Bundle for Mac is a **powerful collection of AI-powered audio repa
 
 The suite leverages **machine learning** to analyze and process audio, making complex restoration tasks accessible to users of all skill levels. Key plugins include ERA Noise Remover, ERA De-Reverb, ERA Voice Leveler, and ERA Plosive Remover. This allows for a streamlined workflow, saving hours of manual editing and ensuring professional sound quality for podcasts, videos, and music productions.
 
-Fully compatible with **Apple Silicon (M1/M2/M3)** and Intel Macs, the Accusonus ERA Bundle runs efficiently on **macOS Monterey, Ventura, and Sonoma**. It integrates seamlessly as Audio Units (AU), VST3, and AAX plugins within popular hosts like Logic Pro, Final Cut Pro, Ableton Live, and Pro Tools. Experience a new level of audio clarity and speed up your post-production with this essential Mac audio tool.
+Fully compatible with **Apple Silicon (M1/M2/M3)** and Intel Macs, the Accusonus ERA Bundle runs efficiently on **macOS Monterey, Ventura, and Sonoma**. It integrates seamlessly as Audio Units (AU), VST3, and AAX plugins within popular hosts like Logic Pro, Final Cut Pro, Ableton Live, and Pro Tools. Experience a new level of audio clarity and speed up your post-production with this essential Mac audio tool
 
 ![Accusonus ERA Bundle Interface](https://digitalfilms.wordpress.com/wp-content/uploads/2019/06/df1916_accusonus_03.jpg)
 
